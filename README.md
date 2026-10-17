@@ -1,3 +1,13 @@
+## A coordinated build for the MINC imaging ecosystem
+
+This is a development fork of [MINC Toolkit v2](https://github.com/BIC-MNI/minc-toolkit-v2), a metaproject that bundles MINC-based image-processing packages and their dependencies. Upstream brings together file I/O, registration, intensity correction, visualization, and other neuroimaging tools, making it useful when a research workflow depends on several parts of the MINC ecosystem.
+
+**Merged contribution:** [PR #255](https://github.com/BIC-MNI/minc-toolkit-v2/pull/255) forwards macOS build settings to HDF5. It was merged into upstream's `develop-1.9.18` branch.
+
+Use the [upstream installation guide](https://github.com/BIC-MNI/minc-toolkit-v2#installation) below to choose the appropriate release branch and bundled packages. The [default-branch comparison](https://github.com/BIC-MNI/minc-toolkit-v2/compare/master...jdotc1:master) shows this fork's `master` branch separately from that contribution.
+
+---
+
 # MINC - TOOLKIT (Medical Imaging NetCDF Toolkit)
 
 ## Introduction
